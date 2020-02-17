@@ -14,6 +14,7 @@
 		1D73477723FB366100D79A6D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477623FB366100D79A6D /* Preview Assets.xcassets */; };
 		1D73477A23FB366100D79A6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477823FB366100D79A6D /* LaunchScreen.storyboard */; };
 		1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */; };
+		1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1D73477923FB366100D79A6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D73477B23FB366100D79A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPasswordToggleTextFieldSecureField.swift; sourceTree = "<group>"; };
+		1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIClearableTextFieldCustomControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1D73477B23FB366100D79A6D /* Info.plist */,
 				1D73477523FB366100D79A6D /* Preview Content */,
 				1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */,
+				1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */,
 				1D73476E23FB365F00D79A6D /* AppDelegate.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
 				1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */,
