@@ -13,6 +13,7 @@
 		1D73477423FB366100D79A6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477323FB366100D79A6D /* Assets.xcassets */; };
 		1D73477723FB366100D79A6D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477623FB366100D79A6D /* Preview Assets.xcassets */; };
 		1D73477A23FB366100D79A6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477823FB366100D79A6D /* LaunchScreen.storyboard */; };
+		1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D73477623FB366100D79A6D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D73477923FB366100D79A6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D73477B23FB366100D79A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPasswordToggleTextFieldSecureField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D73477823FB366100D79A6D /* LaunchScreen.storyboard */,
 				1D73477B23FB366100D79A6D /* Info.plist */,
 				1D73477523FB366100D79A6D /* Preview Content */,
+				1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				1D73476E23FB365F00D79A6D /* AppDelegate.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
+				1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */,
 				1D73477223FB365F00D79A6D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
