@@ -15,6 +15,7 @@
 		1D73477A23FB366100D79A6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477823FB366100D79A6D /* LaunchScreen.storyboard */; };
 		1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */; };
 		1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */; };
+		95397C7A24000663009DD595 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7924000663009DD595 /* Binding.swift */; };
 		9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */; };
 		9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */; };
 /* End PBXBuildFile section */
@@ -30,6 +31,7 @@
 		1D73477B23FB366100D79A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPasswordToggleTextFieldSecureField.swift; sourceTree = "<group>"; };
 		1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIClearableTextFieldCustomControl.swift; sourceTree = "<group>"; };
+		95397C7924000663009DD595 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI.swift; sourceTree = "<group>"; };
 		9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +77,7 @@
 				1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */,
 				9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */,
 				9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */,
+				95397C7924000663009DD595 /* Binding.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */,
 				1D73476E23FB365F00D79A6D /* AppDelegate.swift in Sources */,
 				9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */,
+				95397C7A24000663009DD595 /* Binding.swift in Sources */,
 				9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
 				1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */,
