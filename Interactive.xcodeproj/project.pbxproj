@@ -17,6 +17,7 @@
 		1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */; };
 		95397C7A24000663009DD595 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7924000663009DD595 /* Binding.swift */; };
 		95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */; };
+		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
 		9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */; };
 		9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */; };
 /* End PBXBuildFile section */
@@ -34,6 +35,7 @@
 		1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIClearableTextFieldCustomControl.swift; sourceTree = "<group>"; };
 		95397C7924000663009DD595 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterListUsingStatePropertyWrapper.swift; sourceTree = "<group>"; };
+		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
 		9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI.swift; sourceTree = "<group>"; };
 		9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -81,6 +83,7 @@
 				9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */,
 				95397C7924000663009DD595 /* Binding.swift */,
 				95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */,
+				95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */,
 				1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */,
 				1D73476E23FB365F00D79A6D /* AppDelegate.swift in Sources */,
 				9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */,
