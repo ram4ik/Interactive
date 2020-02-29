@@ -15,6 +15,7 @@
 		1D73477A23FB366100D79A6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D73477823FB366100D79A6D /* LaunchScreen.storyboard */; };
 		1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */; };
 		1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */; };
+		1DF65111240AE5040009C75A /* RotationGestureSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */; };
 		95397C7A24000663009DD595 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7924000663009DD595 /* Binding.swift */; };
 		95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */; };
 		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
@@ -33,6 +34,7 @@
 		1D73477B23FB366100D79A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPasswordToggleTextFieldSecureField.swift; sourceTree = "<group>"; };
 		1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIClearableTextFieldCustomControl.swift; sourceTree = "<group>"; };
+		1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureSwiftUI.swift; sourceTree = "<group>"; };
 		95397C7924000663009DD595 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterListUsingStatePropertyWrapper.swift; sourceTree = "<group>"; };
 		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				95397C7924000663009DD595 /* Binding.swift */,
 				95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */,
 				95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */,
+				1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */,
+				1DF65111240AE5040009C75A /* RotationGestureSwiftUI.swift in Sources */,
 				1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */,
 				1D73476E23FB365F00D79A6D /* AppDelegate.swift in Sources */,
 				9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */,
