@@ -21,6 +21,7 @@
 		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
 		9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */; };
 		9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */; };
+		95EFFF0E24111F490013C677 /* SequenceGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
 		9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI.swift; sourceTree = "<group>"; };
 		9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI_2.swift; sourceTree = "<group>"; };
+		95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceGestureTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */,
 				95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */,
 				1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */,
+				95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95EFFF0E24111F490013C677 /* SequenceGestureTemplate.swift in Sources */,
 				95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */,
 				1DF65111240AE5040009C75A /* RotationGestureSwiftUI.swift in Sources */,
 				1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */,
