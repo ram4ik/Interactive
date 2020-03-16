@@ -16,6 +16,7 @@
 		1D73478223FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */; };
 		1D73478423FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */; };
 		1DF65111240AE5040009C75A /* RotationGestureSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */; };
+		950472B6241F818C001C75B7 /* RadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950472B5241F818C001C75B7 /* RadialGradient.swift */; };
 		95397C7A24000663009DD595 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7924000663009DD595 /* Binding.swift */; };
 		95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */; };
 		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
@@ -39,6 +40,7 @@
 		1D73478123FB369500D79A6D /* SwiftUIPasswordToggleTextFieldSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPasswordToggleTextFieldSecureField.swift; sourceTree = "<group>"; };
 		1D73478323FB3AA200D79A6D /* SwiftUIClearableTextFieldCustomControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIClearableTextFieldCustomControl.swift; sourceTree = "<group>"; };
 		1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureSwiftUI.swift; sourceTree = "<group>"; };
+		950472B5241F818C001C75B7 /* RadialGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialGradient.swift; sourceTree = "<group>"; };
 		95397C7924000663009DD595 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterListUsingStatePropertyWrapper.swift; sourceTree = "<group>"; };
 		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				956E1497241F709D00E58849 /* ColorAnimation.swift */,
 				956E1499241F739600E58849 /* SpringAnimation.swift */,
 				956E149B241F7B2100E58849 /* GradientColor&UnitPoint.swift */,
+				950472B5241F818C001C75B7 /* RadialGradient.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				95397C7A24000663009DD595 /* Binding.swift in Sources */,
 				956E149C241F7B2100E58849 /* GradientColor&UnitPoint.swift in Sources */,
 				9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */,
+				950472B6241F818C001C75B7 /* RadialGradient.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
 				95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */,
 				956E149A241F739600E58849 /* SpringAnimation.swift in Sources */,
