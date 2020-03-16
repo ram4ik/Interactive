@@ -21,6 +21,7 @@
 		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
 		956E1498241F709D00E58849 /* ColorAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956E1497241F709D00E58849 /* ColorAnimation.swift */; };
 		956E149A241F739600E58849 /* SpringAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956E1499241F739600E58849 /* SpringAnimation.swift */; };
+		956E149C241F7B2100E58849 /* GradientColor&UnitPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956E149B241F7B2100E58849 /* GradientColor&UnitPoint.swift */; };
 		9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */; };
 		9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */; };
 		95EFFF0E24111F490013C677 /* SequenceGestureTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */; };
@@ -43,6 +44,7 @@
 		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
 		956E1497241F709D00E58849 /* ColorAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorAnimation.swift; sourceTree = "<group>"; };
 		956E1499241F739600E58849 /* SpringAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpringAnimation.swift; sourceTree = "<group>"; };
+		956E149B241F7B2100E58849 /* GradientColor&UnitPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GradientColor&UnitPoint.swift"; sourceTree = "<group>"; };
 		9585D0A323FEC253003A5CC0 /* ImageProcessingSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI.swift; sourceTree = "<group>"; };
 		9585D0A523FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingSwiftUI_2.swift; sourceTree = "<group>"; };
 		95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceGestureTemplate.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				95EFFF0D24111F490013C677 /* SequenceGestureTemplate.swift */,
 				956E1497241F709D00E58849 /* ColorAnimation.swift */,
 				956E1499241F739600E58849 /* SpringAnimation.swift */,
+				956E149B241F7B2100E58849 /* GradientColor&UnitPoint.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				956E1498241F709D00E58849 /* ColorAnimation.swift in Sources */,
 				9585D0A423FEC253003A5CC0 /* ImageProcessingSwiftUI.swift in Sources */,
 				95397C7A24000663009DD595 /* Binding.swift in Sources */,
+				956E149C241F7B2100E58849 /* GradientColor&UnitPoint.swift in Sources */,
 				9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
 				95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */,
