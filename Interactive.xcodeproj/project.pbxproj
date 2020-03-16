@@ -18,6 +18,7 @@
 		1DF65111240AE5040009C75A /* RotationGestureSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */; };
 		950472B6241F818C001C75B7 /* RadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950472B5241F818C001C75B7 /* RadialGradient.swift */; };
 		950472B8241F910A001C75B7 /* LinearGradientAndGradientAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950472B7241F910A001C75B7 /* LinearGradientAndGradientAnimation.swift */; };
+		950472BA241F9DD8001C75B7 /* AnimationTimingCurve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950472B9241F9DD8001C75B7 /* AnimationTimingCurve.swift */; };
 		95397C7A24000663009DD595 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7924000663009DD595 /* Binding.swift */; };
 		95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */; };
 		95397C7E2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */; };
@@ -43,6 +44,7 @@
 		1DF65110240AE5040009C75A /* RotationGestureSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureSwiftUI.swift; sourceTree = "<group>"; };
 		950472B5241F818C001C75B7 /* RadialGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialGradient.swift; sourceTree = "<group>"; };
 		950472B7241F910A001C75B7 /* LinearGradientAndGradientAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearGradientAndGradientAnimation.swift; sourceTree = "<group>"; };
+		950472B9241F9DD8001C75B7 /* AnimationTimingCurve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingCurve.swift; sourceTree = "<group>"; };
 		95397C7924000663009DD595 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		95397C7B24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterListUsingStatePropertyWrapper.swift; sourceTree = "<group>"; };
 		95397C7D2400187E009DD595 /* AdvancedStateBindingParentChildRelationship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedStateBindingParentChildRelationship.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				956E149B241F7B2100E58849 /* GradientColor&UnitPoint.swift */,
 				950472B5241F818C001C75B7 /* RadialGradient.swift */,
 				950472B7241F910A001C75B7 /* LinearGradientAndGradientAnimation.swift */,
+				950472B9241F9DD8001C75B7 /* AnimationTimingCurve.swift */,
 			);
 			path = Interactive;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				9585D0A623FEC851003A5CC0 /* ImageProcessingSwiftUI_2.swift in Sources */,
 				950472B6241F818C001C75B7 /* RadialGradient.swift in Sources */,
 				1D73477023FB365F00D79A6D /* SceneDelegate.swift in Sources */,
+				950472BA241F9DD8001C75B7 /* AnimationTimingCurve.swift in Sources */,
 				95397C7C24001054009DD595 /* SearchAndFilterListUsingStatePropertyWrapper.swift in Sources */,
 				956E149A241F739600E58849 /* SpringAnimation.swift in Sources */,
 				950472B8241F910A001C75B7 /* LinearGradientAndGradientAnimation.swift in Sources */,
